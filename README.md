@@ -1,2 +1,2 @@
-# ClashSubscription-
+# ClashSubscription
 Clash SubscriptionMenagement
